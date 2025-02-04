@@ -21,6 +21,3 @@ Motivasyon (Motivation): Olayın arkasındaki neden veya motivasyon
 
 Veri Kaynakları
 Veri Kaggle'dan alınmıştır.
-
-Katkıda Bulunma
-Herhangi bir öneriniz veya katkınız varsa lütfen bir pull request açın veya bizimle iletişime geçin.
